@@ -27,4 +27,3 @@ Then, download a buildkit from the Releases tab. The buildkit will work on eithe
 To build from source, extract the buildkit and run your operating system's respective build script (`build_paint.bat` for Windows, `sudo bash ./build_paint.sh` for macOS).
 
 The build script will install/update all required modules (`pyinstaller`, `tk-tools`, and `pillow`) and produce an executable file in the `dist` folder.
-
